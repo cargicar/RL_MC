@@ -1,0 +1,6 @@
+numpy
+gym
+time 
+matplotlib
+scipy
+functools
