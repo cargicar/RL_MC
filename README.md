@@ -5,4 +5,4 @@ A Python implementation of a Monte Carlo method in Reinforcement Learning from c
 
 We applied the method to solve (in less that 100 episodes) the Montain-car enviroment of Open AI gym. 
 
-https://github.com/cargicar/RL_MC/blob/main/gym_animation.gif
+[https://github.com/cargicar/RL_MC/blob/main/gym_animation.gif](url)
